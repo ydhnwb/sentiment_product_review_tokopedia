@@ -9,3 +9,5 @@ Data bisa diambil dari github ini product_reviews_dirty.csv atau bisajuga ke sin
 run test.py untuk langsung ngerun program berdasarkan model yg sudah saya buat. <br>
 Jika ingin modifikasi classifiernya, ubah di app.py
 Cleaning data ada di preprocessing.py
+
+<img src="https://github.com/ydhnwb/sentiment_product_review_tokopedia/blob/master/screenshot.jpg">
